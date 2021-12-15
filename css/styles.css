@@ -90,7 +90,6 @@ section {
 .navbar__menu .highlight {
     background: #333;
     color: #fff;
-    transition: ease 0.3s all;
 }
 /* Header Styles */
 .page__header {
